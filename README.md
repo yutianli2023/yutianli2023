@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### 开源项目
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=mp4To4K-rust)](https://github.com/yutianli2023/mp4To4K-rust)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=yutianli2023&homepage)](https://github.com/yutianli2023/yutianli2023)
 <br><br><br>
 
 ### Github 活跃度
