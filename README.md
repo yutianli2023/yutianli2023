@@ -15,6 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### **社交主页：**
+
+ <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
+
+### 开源项目
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=mp4To4K-rust)](https://github.com/yutianli2023/mp4To4K-rust)
+<br><br><br>
 
 ### Github 活跃度
 
